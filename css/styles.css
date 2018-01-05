@@ -1,6 +1,14 @@
+.highlight {
+  background-color: yellow;
+}
+
 .jumbotron {
   text-align: center;
-  background-color: #108c74;
+  background-color: #0c725e;
+}
+
+.jumbotron h1 {
+  color: white;
 }
 
 .jumbotron p {
@@ -8,13 +16,13 @@
   color: yellow;
 }
 
+.nav-pills a {
+  color: white;
+}
+
 .nav-pills li {
   float: right;
   font-weight: bolder;
-}
-
-.nav-pills a {
-  color: white;
 }
 
 h2 {
