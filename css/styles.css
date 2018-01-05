@@ -1,3 +1,9 @@
+.bg-info {
+  margin: 50px;
+  border: 2px solid #0c725e;
+  border-radius: 50px;
+}
+
 .highlight {
   background-color: yellow;
 }
