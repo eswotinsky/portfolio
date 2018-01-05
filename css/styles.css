@@ -1,5 +1,15 @@
 .jumbotron {
   text-align: center;
+  background-color: #108c74;
+}
+
+.jumbotron p{
+  font-weight:bolder;
+  color: yellow;
+}
+
+h2 {
+  text-align: center;
 }
 
 img {
