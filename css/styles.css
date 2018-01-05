@@ -3,9 +3,18 @@
   background-color: #108c74;
 }
 
-.jumbotron p{
+.jumbotron p {
   font-weight:bolder;
   color: yellow;
+}
+
+.nav-pills li {
+  float: right;
+  font-weight: bolder;
+}
+
+.nav-pills a {
+  color: white;
 }
 
 h2 {
