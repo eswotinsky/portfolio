@@ -42,3 +42,8 @@ h2 {
 img {
   width: 100%;
 }
+
+ul li {
+  width: 25%;
+  float: left;
+}
