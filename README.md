@@ -6,9 +6,13 @@
 
 ## Description
 
-_This is a single-page website serving as a personal GitHub portfolio. It was created as an independent project following my first week of studies at Epicodus. View online at https://eswotinsky.github.io/portfolio/._
+_This is a single-page website serving as a personal GitHub portfolio. It was created as an independent project following my first week of studies at Epicodus._
 
-## Support and contact details
+## Setup/Installation Requirements
+
+_No setup necessary. View online at https://eswotinsky.github.io/portfolio/._
+
+## Support and Contact Details
 
 _Please contact me at eric.swotinsky@gmail.com with any questions or comments._
 
